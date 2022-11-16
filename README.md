@@ -1,16 +1,20 @@
-### Hi there 👋
+# Helleoooooo, beautiful human! 👋
 
-<!--
-**sirekaushalkumar/sirekaushalkumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+#### 🔭 I’m currently working as Business Analyst at Tata Consultancy Services for a Leading Hollywood Studio.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🌱 I’m currently learning Node, AWS and Business Processes.
+
+#### 👯 I’m looking to collaborate on any research and academic projects
+
+#### 🤔 I’m looking for mathematics resources on [libgen.rs](https://libgen.rs).
+
+#### 💬 Talk to me about anything 😉
+
+#### 📫 How to reach me: 404B, Cafe Street
+
+#### 🤷‍♀️ Pronouns: He/Himk
+
+#### ⚡ Fun fact: I solemnly swear that I am up to no good. 🙂
+
+#### 🕸 [professorpandit.github.io](professorpandit.github.io)
