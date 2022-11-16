@@ -13,7 +13,7 @@
 
 #### 📫 How to reach me: 404B, Cafe Street
 
-#### 🤷‍♀️ Pronouns: He/Himk
+#### 🤷‍♀️ Pronouns: He/Him
 
 #### ⚡ Fun fact: I solemnly swear that I am up to no good. 🙂
 
